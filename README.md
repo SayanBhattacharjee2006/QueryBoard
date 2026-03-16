@@ -243,7 +243,7 @@ JWT_SECRET=your-secret-key
 - **Chart-level chat** — follow-up questions scoped to a single chart (Prompt 4 spec ready)
 - **SQL export** — translate IntentModel to SQL for users who want reproducible queries
 - **Scheduled reports** — email digest of daily queries and insights
-- **Larger file support** — bypass Vercel 4.5MB limit by uploading directly to Railway in all environments
+- **Larger file support** — bypass Vercel 4.5MB limit by uploading directly to Railway in all environments 
 
 ---
 
