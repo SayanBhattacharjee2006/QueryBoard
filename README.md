@@ -12,7 +12,7 @@ Business analysts and non-technical users need to explore data quickly, but trad
 
 ---
 
-## Solution
+## Solution  
 
 QueryBoard removes the technical barrier entirely. Users:
 
